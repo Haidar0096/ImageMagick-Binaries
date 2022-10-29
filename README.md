@@ -7,5 +7,6 @@ For example, to get the `lib` files, `dll` files, and `include` directory of ima
 Details about the build configuration of each version of the binaries is available in the `README` file in the corresponding folder.
 
 ## Notes:
+- The libraries in this repository were compiled as shared libraries.
 - The supported ImageMagick configs are Q8 (No HDRI), Q8 (with HDRI), Q16 (No HDRI), Q16 (with HDRI).
 - If you want to learn more about building the binaries for windows, have a look [here](https://github.com/ImageMagick/ImageMagick-Windows).
