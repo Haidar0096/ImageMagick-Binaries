@@ -10,3 +10,4 @@ Details about the build configuration of each version of the binaries is availab
 - The libraries in this repository were compiled as shared libraries.
 - The supported ImageMagick configs are Q8 (No HDRI), Q8 (with HDRI), Q16 (No HDRI), Q16 (with HDRI).
 - If you want to learn more about building the binaries for windows, have a look [here](https://github.com/ImageMagick/ImageMagick-Windows).
+- If you want to learn more about building the binaries for Android, have a look [here](https://github.com/Haidar0096/Android-ImageMagick7) and [here](https://github.com/MolotovCherry/Android-ImageMagick7).
